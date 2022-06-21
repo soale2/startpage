@@ -2,17 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 :root {
-    --color-bg: #1E1E2E;
-    --color-fg: #D9E0EE;
-    --color-link: #8F9191;
-    --color-link-visited: #F5C2E7;
-    --color-link-hover: #FF79C6 ;
+    --color-bg: #1a1b26;
+    --color-fg: #a9b1d6;
+    --color-link: #c0caf5;
+    --color-link-visited: #bb9af7;
+    --color-link-hover: #b4f9f8;
 }
 
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Ubuntu";
+  font-family: "SpaceMono NF";
   height: 100%;
   width: 100%;
   margin: 0;
@@ -22,7 +22,7 @@ html, body {
 .vapor {
   border-radius: 12px;
   border-style: solid;
-  border-color: #FF79C6;
+  border-color: #f7768e;
 
 }
 
@@ -124,6 +124,6 @@ a:hover {
 
 #Date {
 
-  font-family: 'Bebas Neue';
+  font-family: 'SpaceMono NF';
   font-size: 40px;
 }
