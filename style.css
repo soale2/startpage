@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 :root {
-    --color-bg: #1a1b26;
-    --color-fg: #a9b1d6;
-    --color-link: #c0caf5;
-    --color-link-visited: #bb9af7;
-    --color-link-hover: #b4f9f8;
+    --color-bg: #282828;
+    --color-fg: #ebdbb2;
+    --color-link: #83a598;
+    --color-link-visited: #d3869b;
+    --color-link-hover: #fb4934;
 }
 
 html, body {
@@ -22,7 +22,7 @@ html, body {
 .vapor {
   border-radius: 12px;
   border-style: solid;
-  border-color: #f7768e;
+  border-color: #cc241d;
 
 }
 
